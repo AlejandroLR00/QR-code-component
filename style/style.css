@@ -57,3 +57,10 @@ body{
     font-size: 1.1rem;
     margin-bottom: 2rem;
 }
+
+.attribution {
+    position: absolute;
+    bottom: 10px;
+    font-size: 11px; text-align: center;
+}
+.attribution a { color: hsl(228, 45%, 44%); }
