@@ -37,6 +37,8 @@ Users should be able to:
 ### Built with
 
 - Mobile-first workflow
+- HTML
+- CSS
 
 ### Continued development
 
